@@ -1,2 +1,4 @@
 O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
 Ele cria a estrutura do Git. Preciso disso para controlar as versões!
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
