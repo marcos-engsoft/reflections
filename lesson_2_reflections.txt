@@ -1,0 +1,2 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+Ele cria a estrutura do Git. Preciso disso para controlar as versões!
