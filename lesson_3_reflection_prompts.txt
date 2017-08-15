@@ -1,0 +1,2 @@
+This is my third file with Git. 
+So far so good!
